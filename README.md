@@ -1,4 +1,4 @@
-### Hi there.
+### HELLO.
 
 - Continue to develop in myself the sphere of creating and promoting sites.
 - I am interested in materials and knowledge mastered by full stack developers.
