@@ -10,5 +10,5 @@
 
 - In conclusion, my senior-level perspective is grounded in unwavering commitment and a thirst for knowledge. I am always ready to apply my expertise and take on complex projects, driven by a lifelong desire to create and innovate in the world of web development.
 
-### to contact me: mr.chupak@icloud.com
-### telegram: @mrchpk
+to contact me: ### mr.chupak@icloud.com
+telegram: ### @mrchpk
